@@ -1,0 +1,6 @@
+if SHIELD_YUBI
+
+config ZMK_KEYBOARD_NAME
+	default "yubi"
+	
+endif
