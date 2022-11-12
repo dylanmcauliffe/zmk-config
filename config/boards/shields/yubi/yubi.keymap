@@ -13,8 +13,6 @@
 			&kp LSHIFT	&kp Z		&kp X		&kp C		&kp V		&kp B		&kp 1		&kp 2		&kp N		&kp M		&kp COMMA	&kp DOT		&kp FSLH	&kp RSHIFT
 			&kp LCTRL				&kp 3					&kp 5		&kp SPACE	&kp DEL		&kp RET		&kp SPACE	&kp 6					&kp 4				&kp RCTRL
 			>;
-
-			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
 		};
 	};
 };
