@@ -13,7 +13,9 @@
 #
 ---
 include:
-    -   board: pro_micro
+    -   board: proton_c
         shield: kyria_left
-    -   board: pro_micro
+    -   board: proton_c
         shield: kyria_right
+    -   board: proton_c
+        shield: yubi
