@@ -1,0 +1,9 @@
+file_format: "1"
+id: yubi
+name: Yubi
+type: shield
+url: https://github.com/dylanmcauliffe/
+requires: 
+    -   pro_micro
+features:
+    -   keys
