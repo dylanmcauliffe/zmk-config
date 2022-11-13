@@ -14,4 +14,4 @@
 ---
 include:
     -   board: stemcell
-        shield: yubi
+        shield: kyria_left
