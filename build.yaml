@@ -13,9 +13,5 @@
 #
 ---
 include:
-    -   board: proton_c
-        shield: kyria_left
-    -   board: proton_c
-        shield: kyria_right
-    -   board: proton_c
+    -   board: stemcell
         shield: yubi
