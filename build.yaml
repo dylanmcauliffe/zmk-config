@@ -13,4 +13,5 @@
 #
 ---
 include:
-    -   board: planck_rev6
+    -   board: proton_c
+        shield: yubi
